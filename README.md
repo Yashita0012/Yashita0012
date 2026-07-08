@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yashita Kumari</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=4F8CC9&center=true&vCenter=true&width=750&lines=Data+Analyst;AI+Engineer;Machine+Learning+Developer;Product+Analytics+Enthusiast;Turning+Data+into+Business+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=4F8CC9&center=true&vCenter=true&width=900&lines=Data-Driven+Thinker;Business-Oriented;Analytical+Problem+Solver;AI+%26+Machine+Learning;Transforming+Data+into+Business+Impact" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <b>Building data-driven products with Analytics, Machine Learning & AI.</b>
+<b>Passionate about building intelligent, data-driven solutions that solve real business problems.</b>
 </p>
 
 <p align="center">
@@ -21,17 +21,17 @@
 
 ## 🚀 About Me
 
-💼 Data Analyst passionate about solving business problems through data.
+💡 Passionate about leveraging **data, analytics, and AI** to solve business challenges and drive strategic decision-making.
 
-📊 Experienced in **SQL, Python, Power BI, Excel, PostgreSQL, MySQL, ETL, Statistics & Data Visualization**.
+📊 Experienced in **SQL, Python, Power BI, Excel, PostgreSQL, MySQL, ETL, Statistics, Data Visualization, and Business Intelligence**.
 
-🤖 Building intelligent solutions with **Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, Hugging Face & OpenCV**.
+🤖 Skilled in **Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, Hugging Face, OpenCV, and NLP**.
 
-🌱 Exploring **Product Analytics, Business Intelligence, NLP, Computer Vision & Generative AI**.
+🎯 Interested in **Analytics Engineering, Product Analytics, Business Intelligence, AI Applications, and Data Storytelling**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,postgres,mysql,cpp,git,github,docker,vscode" />
@@ -52,22 +52,8 @@
 
 ---
 
-## 🎯 Focus Areas
+<div align="center">
 
-📈 Data Analytics • Product Analytics • Business Intelligence
+### ✨ *"Where data meets strategy, innovation follows."*
 
-🤖 Machine Learning • Deep Learning • Computer Vision • NLP
-
-☁️ AI Applications • Dashboarding • Data Storytelling
-
----
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-<h3 align="center">
-✨ Turning complex data into meaningful insights and intelligent solutions.
-</h3>
+</div>
