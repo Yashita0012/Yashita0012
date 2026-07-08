@@ -1,68 +1,55 @@
 <h1 align="center">Hi 👋, I'm Yashita Kumari</h1>
 
-<h3 align="center">Data Analyst • AI Enthusiast • Product Analytics</h3>
+<h3 align="center">Data Analyst • AI Engineer • Product Analytics</h3>
 
 <p align="center">
-Turning data into business decisions through analytics, machine learning, and visualization.
+Building data-driven products with analytics, machine learning, and AI.
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/yashita-k-/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:yashita.kumari.ug22@nsut.ac.in">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 👩🏻‍💻 About Me
+### 👩‍💻 About Me
 
-🎓 B.Tech @ **NSUT Delhi**
+💡 Passionate about transforming data into business impact through analytics and AI.
 
-💼 Data Analyst passionate about solving real-world business problems
+📊 Experienced in **SQL, Python, Power BI, Excel, PostgreSQL, MySQL, ETL, Statistics & Data Visualization**.
 
-📊 Skilled in **SQL, Python, Power BI, Excel, ETL & Statistics**
+🤖 Building intelligent solutions using **Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, Hugging Face & OpenCV**.
 
-🤖 Experienced with **Machine Learning, Deep Learning, TensorFlow, PyTorch & Hugging Face**
-
-🚀 Interested in **Data Analytics • AI • Product Analytics • Business Intelligence**
+🚀 Interested in **Data Analytics, Product Analytics, Business Intelligence, Computer Vision, NLP & Generative AI**.
 
 ---
 
-## ⚡ Tech Stack
+### ⚒️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,postgresql,git,github,docker,vscode,cpp" />
-
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,postgres,mysql,cpp,git,github,docker,vscode" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-</p>
 
----
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
 
-## 📈 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yashita0012&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashita0012&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashita0012&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-<p align="center">
-✨ <i>"Transforming data into insights and ideas into intelligent solutions."</i>
-</p>
+### 🌟 Philosophy
+
+> **Turning complex data into meaningful insights and intelligent solutions.**
